@@ -22,6 +22,6 @@ The discord does have a dedicated suggestions channel. If you do have a feature 
 If you do need help with anything from stupid questions(pls no) to setting up a fork feel free to DM me on discord, my tag is alekfart.
 
 License
-Copyright (c) 2024, Scoom
+Copyright (c) 2024, Skv Rack
 
 Licensed under the GPL-3.0 license.
