@@ -24,4 +24,4 @@ If you do need help with anything from stupid questions(pls no) to setting up a 
 License
 Copyright (c) 2024, Skv Rack
 
-Licensed under the GPL-3.0 license.
+Licensed under the MIT-3.0 license.
